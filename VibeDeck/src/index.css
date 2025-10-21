@@ -1,0 +1,13 @@
+/* src/index.css */
+
+/* ADD this line: Ensure Tailwind's base styles are applied */
+@layer base {
+    body {
+        /* This class name should match the primary background used in VibeDeck.jsx */
+        @apply bg-gray-900 text-gray-100; 
+    }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

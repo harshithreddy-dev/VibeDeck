@@ -106,4 +106,3 @@ The app will open at `http://localhost:5173`.
 This project is licensed under the **MIT License**. Feel free to use, fork, and remix. If you build something epic on top of VibeDeck, I'd love to hear about it\!
 
 ```
-```
